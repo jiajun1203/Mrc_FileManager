@@ -1,0 +1,6 @@
+framework module FileManagerSDK {
+  umbrella header "FileManagerSDK.h"
+
+  export *
+  module * { export * }
+}
